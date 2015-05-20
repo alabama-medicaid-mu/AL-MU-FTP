@@ -1,0 +1,18 @@
+﻿Uninstalling assembly 'C:\Users\ms000685\Documents\Visual Studio 2013\Projects\Medicaid-AL-MU-FTP\Medicaid-AL-MU-FTP\bin\Release\Medicaid-AL-MU-FTP.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ms000685\Documents\Visual Studio 2013\Projects\Medicaid-AL-MU-FTP\Medicaid-AL-MU-FTP\bin\Release\Medicaid-AL-MU-FTP.InstallLog
+   assemblypath = C:\Users\ms000685\Documents\Visual Studio 2013\Projects\Medicaid-AL-MU-FTP\Medicaid-AL-MU-FTP\bin\Release\Medicaid-AL-MU-FTP.exe
+Removing EventLog source ALMEDFTP.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\ms000685\Documents\Visual Studio 2013\Projects\Medicaid-AL-MU-FTP\Medicaid-AL-MU-FTP\bin\Release\Medicaid-AL-MU-FTP.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ms000685\Documents\Visual Studio 2013\Projects\Medicaid-AL-MU-FTP\Medicaid-AL-MU-FTP\bin\Release\Medicaid-AL-MU-FTP.InstallLog
+   assemblypath = C:\Users\ms000685\Documents\Visual Studio 2013\Projects\Medicaid-AL-MU-FTP\Medicaid-AL-MU-FTP\bin\Release\Medicaid-AL-MU-FTP.exe
+Removing EventLog source ALMEDFTP.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
